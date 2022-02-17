@@ -1,0 +1,10 @@
+C:\Users\bmder\Desktop\7 SegmentClock\7 SegmentClock\bin\Debug\7 SegmentClock.exe.config
+C:\Users\bmder\Desktop\7 SegmentClock\7 SegmentClock\bin\Debug\7 SegmentClock.exe
+C:\Users\bmder\Desktop\7 SegmentClock\7 SegmentClock\bin\Debug\7 SegmentClock.pdb
+C:\Users\bmder\Desktop\7 SegmentClock\7 SegmentClock\obj\Debug\7 SegmentClock.csproj.AssemblyReference.cache
+C:\Users\bmder\Desktop\7 SegmentClock\7 SegmentClock\obj\Debug\_7_SegmentClock.Form1.resources
+C:\Users\bmder\Desktop\7 SegmentClock\7 SegmentClock\obj\Debug\_7_SegmentClock.Properties.Resources.resources
+C:\Users\bmder\Desktop\7 SegmentClock\7 SegmentClock\obj\Debug\7 SegmentClock.csproj.GenerateResource.cache
+C:\Users\bmder\Desktop\7 SegmentClock\7 SegmentClock\obj\Debug\7 SegmentClock.csproj.CoreCompileInputs.cache
+C:\Users\bmder\Desktop\7 SegmentClock\7 SegmentClock\obj\Debug\7 SegmentClock.exe
+C:\Users\bmder\Desktop\7 SegmentClock\7 SegmentClock\obj\Debug\7 SegmentClock.pdb
